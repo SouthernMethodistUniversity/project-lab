@@ -87,5 +87,8 @@ Possible stakeholders include: your library, colleagues, IT division, academic p
 
 
 
-[<<Back](1Ideas.md)	.....	[Forward>>](3Environment.md)
+[<<Back](sections/1Ideas.md)	.....	[Forward>>](3Environment.md)
 
+
+-----
+[Return to introduction](https://github.com/DHRISMU/project-lab)

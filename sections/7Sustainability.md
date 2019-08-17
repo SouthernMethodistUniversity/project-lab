@@ -17,3 +17,7 @@ Very quickly, try to think of all the different types of data your project will 
 
 
 [<<Previous|](6Workplan.md) .... [Next>>](8Partnerships.md)
+
+
+-----
+[Return to introduction](https://github.com/DHRISMU/project-lab)

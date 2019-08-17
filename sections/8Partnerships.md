@@ -73,3 +73,6 @@ Follow these steps when asking for a support letter and for specific types of as
 
 [<<Back](7Sustainability.md)	.....	[Forward>>](9Findingfunds.md)
 
+
+-----
+[Return to introduction](https://github.com/DHRISMU/project-lab)

@@ -16,3 +16,7 @@
 
 [<<Back](10Proposal.md)	.....	[Example>>](12Instructions.md)
 
+
+-----
+[Return to introduction](https://github.com/DHRISMU/project-lab)
+

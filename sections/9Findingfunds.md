@@ -35,3 +35,6 @@ Now that you have started to form:
 Find one or two grant opportunites in your subject area. Consider also looking for fellowship opportunities. 
 
 [<<Back](8Partnerships.md)	.....	[Forward>>](10Proposal.md)
+
+-----
+[Return to introduction](https://github.com/DHRISMU/project-lab)

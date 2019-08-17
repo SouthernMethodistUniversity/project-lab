@@ -2,7 +2,7 @@
 
 After brainstorming your project ideas and assessing your available resources, it is time to scope out potential partners to help fill in gaps and formalize relationships. 
 
-please keep in mind that each project is different. This outline offers suggestions and lessons learned from successful and less successful collaborations. while each project is unique in the way responsibilities are shared, perhaps one universal attribute of successful partnerships is mutual respect. The most successful collaborations are characterized by a demonstrated respect for each partners's time, work, space, staff, or policies in words and actions. 
+Please keep in mind that each project is different. This outline offers suggestions and lessons learned from successful and less successful collaborations. while each project is unique in the way responsibilities are shared, perhaps one universal attribute of successful partnerships is mutual respect. The most successful collaborations are characterized by a demonstrated respect for each partners's time, work, space, staff, or policies in words and actions. 
 
 ## Identify what you need: 
 Once you know where you need help, start thinking about who you know who might have those skills, areas of expertise, resources, and interest. 

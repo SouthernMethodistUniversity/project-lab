@@ -81,8 +81,7 @@ Looking back at the Audiences worksheet, review which of your audiences were inv
 
 ## Institution
 * What resources are available to you through your institution? 
-* What services or support might be available through the GC Digital Initiatives, the Teaching & Learning Center, the New Media Lab, or the Futures Initiative? If you are not at the GC, does your insitution have a digital research support network? 
-* Have you joined the CUNY Academic Commons? 
+* What services or support might be available through the your institution? Does your insitution have a digital research support network? 
 * Have you applied for internal funding? Where would you look? 
 * Are there resources at your institution for hosting, data sharing, and/or preservation? 
 

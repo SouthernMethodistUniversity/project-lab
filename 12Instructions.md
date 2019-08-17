@@ -1,12 +1,12 @@
 # Presentation
 
-## **Name:** Lisa Rhody
-## **Program:** Digital Initiatives
+## **Name:** Rafia Mirza
+## **Program:** DHRI@SMU
 
-### **Project title:** Projects made Easy!
+### **Project title:** Pilot of DHRI at SMU, based on CUNY model
 
 **2 Sentence abstract**
-My project is going to make every installation seamless. It will make all of your Python dreams come true, your databases tidy, and your Git Hub happy. 
+My project is going to put on a pilot of the DHRI intensive workshop series at SMU
 
 **What resources do you have now?**
 

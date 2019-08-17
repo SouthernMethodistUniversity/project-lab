@@ -32,14 +32,14 @@ If you are working on a project that is institutionally based (such as creating 
 
 Possible stakeholders include: your library, colleagues, IT division, academic program, a center, or institute who shares your mission and/or goals. 
 
-Example of a "stakeholder":
+<!-- Example of a "stakeholder":
 
 ### Sample: 
 1. Needs: The New Media Lab has student fellows who develop digital projects. They have expressed interest in finding a data management tool that allows students to create a plan for how to handle various types of data files. 
 2. Resources/Relationships: I'm also a fellow in the New Media Lab, and they might be willing to help test my tool. 
-3. Limitations/Concessions: They are more interested in using open source software than many of the other students I work with. 
+3. Limitations/Concessions: They are more interested in using open source software than many of the other students I work with. --> 
 
-## Activity: Your Turn
+## Activity: 
 
 ### Audience 1: 
 
@@ -47,7 +47,7 @@ Example of a "stakeholder":
 
  2. Resources/Relationship: 
 
- 3. Limitations/Concessions: \
+ 3. Limitations/Concessions: 
 
 
 ### Audience 2: 

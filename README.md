@@ -33,6 +33,11 @@ None of those things can happen without a plan. If you walk out those doors toda
 4. Find new resources
 5. Communicate your plan
 
+Discussion participants: 
+* [Sarah Sage, PMP Project Manager, OIT](https://www.smu.edu/OIT/Governance)
+* [Cindy Boeke Digital Collections Librarian, NCDS, SMU Libraries](https://www.smu.edu/libraries/digitalcollections/about)
+
+
 Session Leader: Rafia Mirza
 * Based on previous work by Lisa Rhody and a WebWise workshop led by Sheila Brennan, Sharon Leon, and Lisa Rhody.
 

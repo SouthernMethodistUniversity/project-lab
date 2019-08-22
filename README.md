@@ -33,12 +33,18 @@ None of those things can happen without a plan. If you walk out those doors toda
 4. Find new resources
 5. Communicate your plan
 
+Rafia's Background: 
+* [Discuss project charter](https://stewartvarner.com/2014/05/project-charter/)
+* [Group work](https://github.com/DHRISMU/intro/blob/master/sections/how.md#group-work--project-planning)
+* [Discuss MOU](https://github.com/pow123/mouworkshop)
+
 Discussion participants: 
 * [Sarah Sage, PMP Project Manager, OIT](https://www.smu.edu/OIT/Governance)
 * [Cindy Boeke Digital Collections Librarian, NCDS, SMU Libraries](https://www.smu.edu/libraries/digitalcollections/about)
 
 
 Session Leader: Rafia Mirza
+Helper: Jonathan McMichael
 * Based on previous work by Lisa Rhody and a WebWise workshop led by Sheila Brennan, Sharon Leon, and Lisa Rhody.
 
 [Let's get started!>>](sections/1Ideas.md)

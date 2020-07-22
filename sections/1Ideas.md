@@ -1,3 +1,5 @@
+[<<< Previous](https://github.com/SouthernMethodistUniversity/projectplan)| [Next >>>](2Audience.md) 
+
 # Begin by Thinking About the End
 
 ## What does "done" look like? 
@@ -19,7 +21,10 @@ So it's helpful to think about what you want "done" to look like before you begi
 
 -----
 
+[<<< Previous](https://github.com/SouthernMethodistUniversity/projectplan)| [Next >>>](2Audience.md) 
 
+-----
+[Return to introduction](https://github.com/SouthernMethodistUniversity/projectplan)
 
 
 
@@ -36,7 +41,7 @@ So it's helpful to think about what you want "done" to look like before you begi
  * Put an existing resource to new use?  
 
 
-[<<Back](https://github.com/DHRISMU/project-lab)	.....	[Forward>>](2Audience.md)
+[<<Back](https://github.com/DHRISMU/project-lab)	| 	[Forward>>](2Audience.md)
 
 
 [Return to introduction](https://github.com/DHRISMU/project-lab)

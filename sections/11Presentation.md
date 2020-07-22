@@ -1,3 +1,5 @@
+[<<Back](10Proposal.md)	| 	[Example>>](12Instructions.md)
+
 # Presentation Template
 
 **Name:** 
@@ -14,9 +16,9 @@
 **What additional support will you need as you take your next steps?**
 
 
-[<<Back](10Proposal.md)	.....	[Example>>](12Instructions.md)
+[<<Back](10Proposal.md)	| 	[Example>>](12Instructions.md)
 
 
 -----
-[Return to introduction](https://github.com/DHRISMU/project-lab)
+[Return to introduction](https://github.com/SouthernMethodistUniversity/projectplan)
 

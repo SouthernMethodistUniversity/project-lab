@@ -1,3 +1,6 @@
+
+[<<Back](2Audience.md)	| [Forward>>](4Resources.md)
+
 # Environmental Scan (Literature and Technology Review)
 
 Conducting an in-depth environmental scan and literature review early in the planning process is a critical step to see if there are existing projects that are similar to your own or that may accomplish similar goals to your potential project. Sometimes, the planning process stops after the scan--because you find that someone has already done it! Typically, a scan is useful in articulating and justifying the "need" for your research OR to justify your choice of one technology in lieu of others. Performing an environmental scan early and reviewing and revising it periodically will go a long way to help you prove that your project fills a current need for an actual audience. 
@@ -79,9 +82,7 @@ The key to the environmental scan is to see what a wider community is already up
 
 
 
-[<<Back](2Audience.md)	.....	[Forward>>](4Resources.md)
-
-
+[<<Back](2Audience.md) | [Forward>>](4Resources.md)
 
 -----
-[Return to introduction](https://github.com/DHRISMU/project-lab)
+[Return to introduction](https://github.com/SouthernMethodistUniversity/projectplan)

@@ -1,3 +1,5 @@
+[<<Back](11Presentation.md)	| 	[Forward>>](continue.md)
+
 # Presentation
 
 ## **Name:** Rafia Mirza
@@ -35,7 +37,7 @@ My project is going to put on a pilot of the DHRI intensive workshop series at S
 
 ```git commit -m "adding an image file"```
 
-
+[<<Back](11Presentation.md)	| 	[Forward>>](continue.md)
 
 -----
-[Return to introduction](https://github.com/DHRISMU/project-lab)
+[Return to introduction](https://github.com/SouthernMethodistUniversity/projectplan)

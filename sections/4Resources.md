@@ -1,3 +1,6 @@
+
+[<<Back](3Environment.md)	| 	[Audience>>](5Outreach.md)
+
 # Resource Assessment
 
 The next step in our process is figuring out what resources you have available to you and what you still need in order to accomplish your project's objectives. 
@@ -88,10 +91,10 @@ Looking back at the Audiences worksheet, review which of your audiences were inv
 
 
 
-[<<Back](3Environment.md)	.....	[Audience>>](5Outreach.md)
+[<<Back](3Environment.md)	| 	[Audience>>](5Outreach.md)
 
 
 
 -----
-[Return to introduction](https://github.com/DHRISMU/project-lab)
+[Return to introduction](https://github.com/SouthernMethodistUniversity/projectplan)
 

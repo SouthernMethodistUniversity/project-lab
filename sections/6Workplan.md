@@ -1,3 +1,5 @@
+[<<Back](5Outreach.md)	| 	[Forward>>](7Sustainability.md)
+
 # Work plans: Scoping and Scheduling Your Work
 
 Work plans describe the work to be done, the deadlines by which the work will be done, and who will do the work. 
@@ -112,8 +114,8 @@ Using the outline below or a combination or variation of the two, begin to map o
 		* Advisory Committee / Consultation with Outside Specialists
 
 
-[<<Back](5Outreach.md)	.....	[Forward>>](7Sustainability.md)
+[<<Back](5Outreach.md)	| [Forward>>](7Sustainability.md)
 
 
 -----
-[Return to introduction](https://github.com/DHRISMU/project-lab)
+[Return to introduction](https://github.com/SouthernMethodistUniversity/projectplan)

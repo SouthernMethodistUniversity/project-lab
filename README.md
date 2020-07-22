@@ -33,7 +33,12 @@ None of those things can happen without a plan. If you walk out those doors toda
 4. Find new resources
 5. Communicate your plan
 
-Rafia's Background: 
+
+## Read and discuss 
+* [Talking about Viral Texts Failures](https://ryancordell.org/research/VT-database-fail/)
+" I have learned a good deal working on this project about iterative, data-driven research, which had I fully understood earlier might have led me to plan its outputs very differently. My edition-building perspective was not ready for the reality of CS research at all."
+
+### Strategies 
 * [Discuss project charter](https://stewartvarner.com/2014/05/project-charter/)
 * [Group work](https://github.com/DHRISMU/intro/blob/master/sections/how.md#group-work--project-planning)
 * [Discuss MOU](https://github.com/pow123/mouworkshop)
@@ -51,7 +56,7 @@ Helper: Jonathan McMichael
 
 
 [![Creative Commons License](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
 
 
 Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   

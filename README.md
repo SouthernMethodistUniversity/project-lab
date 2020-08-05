@@ -18,7 +18,7 @@ What separates projects that turn into something from those that stall out and g
 9. [Finding Funding](sections/9Findingfunds.md)
 10. [Draft Project Proposal](sections/10Proposal.md)
 11. [Presentation Slide](sections/11Presentation.md)
-12. [Continue] (sections/continue.md)
+12. [Continue](sections/continue.md)
 
 ## Why?
 

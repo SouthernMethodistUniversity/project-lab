@@ -40,9 +40,10 @@ None of those things can happen without a plan. If you walk out those doors toda
 " I have learned a good deal working on this project about iterative, data-driven research, which had I fully understood earlier might have led me to plan its outputs very differently. My edition-building perspective was not ready for the reality of CS research at all."
 
 ### Strategies 
-* [Discuss project charter](https://stewartvarner.com/2014/05/project-charter/)
-* [Group work](https://github.com/DHRISMU/intro/blob/master/sections/how.md#group-work--project-planning)
-* [Discuss MOU](https://github.com/pow123/mouworkshop)
+* [Discuss project charter](ADD link)
+* [Group work](https://github.com/SouthernMethodistUniversity/dhclass)
+* [Discuss MOU](https://github.com/pow123/mouworkshop) 
+    * [MOU handbook](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
 
 
 Session Leader: Rafia Mirza

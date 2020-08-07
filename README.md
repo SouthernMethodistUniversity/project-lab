@@ -46,11 +46,15 @@ None of those things can happen without a plan. If you walk out those doors toda
     * [MOU handbook](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
 
 
-Session Leader: Rafia Mirza
-Helper: Jonathan McMichael
-* Based on previous work by Lisa Rhody and a WebWise workshop led by Sheila Brennan, Sharon Leon, and Lisa Rhody.
 
 [Let's get started!>>](sections/1Ideas.md)
+
+
+-----
+Session Leader:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) 
+* Written by Rafia Mirza. Edited by Joanna Russell Bliss
+
+Based on previous work by Lisa Rhody and a WebWise workshop led by Sheila Brennan, Sharon Leon, and Lisa Rhody.
 
 
 [![Creative Commons License](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/)

@@ -1,10 +1,10 @@
-[<<Back](sections/1Ideas.md)	| 	[Forward>>](3Environment.md)
+[<<<Previous](sections/1Ideas.md)	| [Next>>>](3Environment.md)
 
-# Identifying Audiences, Constituencies, & Collaborators
+# Identifying audiences, constituencies, & collaborators
 
  * Who will participate in, use, and/or benefit from the project? 
  * Is there a specific group already asking for this new resource? Who? 
- * The "general public" is too general an audience. the more specific your audience is the more likely you are to meet their needs. 
+ * The "general public" is too general an audience. The more specific your audience is, the more likely you are to meet their needs. 
  * Is there anything that my audience can bring to my project?
 
 ## Your project **always** has an audience. 
@@ -30,7 +30,7 @@
 2. Resources/Relationship: The committee is familiar with some of the models that already exist. They have deep familiarity with the qualitative indicators for corporate fraud. They can connect my data and my research to a wider community of scholars who have the datasets that I need to finish my work. My advisor wants me to succeed. 
 3. Limitations: My committee is skeptical about technology and feels uncertain about how they will evaluate my work. They have expressed concern about not knowing how to "check" if the model is accurate. 
 
-If you are working on a project that is institutionally based (such as creating a platform, creating a resource, or building a teaching tool), you may have institutaional partners who have a stake in your project's success.  It's a good idea to identify these folks and consider their interests and needs as well. 
+If you are working on a project that is institutionally based (such as creating a platform, creating a resource, or building a teaching tool), you may have institutional partners who have a stake in your project's success.  It's a good idea to identify these folks and consider their interests and needs as well. 
 
 Possible stakeholders include: your library, colleagues, IT division, academic program, a center, or institute who shares your mission and/or goals. 
 
@@ -89,7 +89,7 @@ Possible stakeholders include: your library, colleagues, IT division, academic p
 
 
 
-[<<Back](sections/1Ideas.md)	| 	[Forward>>](3Environment.md)
+[<<<Previous](sections/1Ideas.md)	| [Next>>>](3Environment.md)
 
 
 -----

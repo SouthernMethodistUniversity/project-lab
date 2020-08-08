@@ -1,13 +1,14 @@
-[<<Back](10Proposal.md)	| 	[Example>>](12Instructions.md)
+[<<<Previous](10Proposal.md) | [Next>>>](12Instructions.md)
 
-# Presentation Template
+# Presentation template
 
 **Name:** 
+
 **Program:** 
 
 **Project title:**
 
-**2 Sentence abstract:**
+**2 sentence abstract:**
 
 **What resources do you have now?**
 
@@ -16,7 +17,7 @@
 **What additional support will you need as you take your next steps?**
 
 
-[<<Back](10Proposal.md)	| 	[Example>>](12Instructions.md)
+[<<<Previous](10Proposal.md) | [Next>>>](12Instructions.md)
 
 
 -----

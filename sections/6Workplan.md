@@ -28,15 +28,15 @@ Using the outline below or a combination or variation of the two, begin to map o
 ### Major deliverables
 **Project plans that foreground the "deliverables" of the project keep the focus on what will be accomplished.**
 * Deliverable 1:
-  * Component
+    * Component
   		* Staff
   		* Resources
   		* Duration
-  * Component
+    * Component
   		* Staff
   		* Resources
   		* Duration
-  * Component
+    * Component
   		* Staff
   		* Resources
   		* Duration
@@ -55,33 +55,31 @@ Using the outline below or a combination or variation of the two, begin to map o
   		* Resources
   		* Duration
 * Deliverable 3: 
-  * Component
+    * Component
   		* Staff
   		* Resources
   		* Duration
-  * Component
+    * Component
   		* Staff
   		* Resources
   		* Duration
-  * Component
+    * Component
   		* Staff
   		* Resources
   		* Duration
 * Deliverable 4:
-  * Component
+    * Component
   		* Staff
   		* Resources
   		* Duration
-  * Component
+    * Component
   		* Staff
   		* Resources
   		* Duration
-  * Component
+    * Component
   		* Staff
   		* Resources
   		* Duration
-
-
 
 ### Calendar driven
 **Calendar-based work plans focus on getting the work done by a specific date**

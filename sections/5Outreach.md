@@ -1,4 +1,4 @@
-[<<Back](4Environment.md)	| 	[Forward>>](6Workplan.md)
+[<<<Previous](4Environment.md) | [Next>>>](6Workplan.md)
 
 # Outreach
 
@@ -16,7 +16,7 @@ Outreach can take many different forms, from presenting your research at confere
 * Does your project have a title? 
 
 
-## Activity: 
+## Activity
 
 1. Is there a project that you know of that seems to have garnered lots of attention either from a broader public or from your own field? What made that project stand out? How did they share their work? 
 
@@ -28,7 +28,7 @@ Outreach can take many different forms, from presenting your research at confere
 
 
 
-[<<Back](4Environment.md)	| 	[Forward>>](6Workplan.md)
+[<<<Previous](4Environment.md) | [Next>>>](6Workplan.md)
 
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/projectplan)

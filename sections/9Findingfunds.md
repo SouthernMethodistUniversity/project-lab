@@ -1,28 +1,27 @@
-[<<Back](8Partnerships.md)	| 	[Forward>>](10Proposal.md)
+[<<<Previous](8Partnerships.md) | [Next>>>](10Proposal.md)
 
 
-# Finding Funding
+# Finding funding
 
-Now that you have started to form:
+Now that you have started to form
 
-* a more refined project idea;
-* a wider awareness of the ecosystem of existing projects in your field;
-* a sense of the national, local, or institutional demand for your project;
-* and a clearer sense of the resources at your disposal
+* A more refined project idea;
+* A wider awareness of the ecosystem of existing projects in your field;
+* A sense of the national, local, or institutional demand for your project;
+* And a clearer sense of the resources at your disposal
 
 ... the next step is to find an appropriate funding source. Below you will find some suggestions as to where to begin the search for funding. As you look for possible funders, below are some guidelines for the process:
 
 1. Check federal, state, and local grant-making agencies, and local foundations for possibility of grants.
 
-	* Federal agencies list all of their available grants on http://grants.gov.
+	* Federal agencies list all of their available grants at https://grants.gov.
 	* States also have opportunities for grants, such as state humanities councils. 
 	* Private foundations are also possible areas to look. The following may prove useful: 
-		* The Foundation Center: [http://foundationcenter.org] (http://foundationcenter.org)
+		* The Foundation Center: http://foundationcenter.org
 		* A Directory of State and Local Foundations: 
-		[http://foundationcenter.org/getstarted/topical/sl_dir.html] (http://foundationcenter.org/getstarted/topical/sl_dir.html)
-		* The Council on Foundations Community Foundations List
-	 http://www.conf.org/whoweserve/community/resources/index.cfm?navitemNumber=15626#locator
-	 * The USDA offers a valuable Guide to Funding Resources [https://www.nal.usda.gov/ric/guide-to-funding-resources] (https://www.nal.usda.gov/ric/guide-to-funding-resources)
+http://foundationcenter.org/getstarted/topical/sl_dir.html
+		* The Council on Foundations Community Foundation Locator: https://www.cof.org/community-foundation-locator
+	 * The USDA offers a valuable Guide to Funding Resources: https://www.nal.usda.gov/ric/guide-to-funding-resources
 
 2. Check your institution’s eligibility for a potential grants before beginning the application process. Eligibility requirements and restrictions are often found in grant guidelines.
 
@@ -37,7 +36,7 @@ Now that you have started to form:
 ## Activity
 Find one or two grant opportunites in your subject area. Consider also looking for fellowship opportunities. 
 
-[<<Back](8Partnerships.md)	| 	[Forward>>](10Proposal.md)
+[<<<Previous](8Partnerships.md) | [Next>>>](10Proposal.md)
 
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/projectplan)

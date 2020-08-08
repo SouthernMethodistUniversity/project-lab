@@ -1,32 +1,31 @@
  # Project Laboratory
 
-
 We are going to work out the process for designing your digital research project in this session. Good--or shall we say effective--projects begin with a plan. It's true those plans may change over the life cycle of the project. Your questions may change. Your funding may change. Even the shape your "final" research project takes may change. 
 
-What separates projects that turn into something from those that stall out and go nowhere is the forumlation of a **reasonable, informed, and purposeful plan**.
+What separates projects that turn into something from those that stall out and go nowhere is the formulation of a **reasonable, informed, and purposeful plan**.
 
 
 ## Agenda
-1. [Begin with the end in mind](sections/1Ideas.md)
-2. [Identify key audiences, constituencies, and collaborators](sections/2Audience.md)
-3. [Environmental scan](sections/3Environment.md)
-4. [Resource assessment](sections/4Resources.md)
-5. [Outreach](sections/5Outreach.md) 
-6. [Work Plans: Scoping and Scheduling](sections/6Workplan.md)
-7. [Sustainability and Data Management](sections/7Sustainability.md)
-8. [Effective Partnerships](sections/8Partnerships.md)
-9. [Finding Funding](sections/9Findingfunds.md)
-10. [Draft Project Proposal](sections/10Proposal.md)
-11. [Presentation Slide](sections/11Presentation.md)
-12. [Continue](sections/continue.md)
+1. [Begin with the end in mind.](sections/1Ideas.md)
+2. [Identify key audiences, constituencies, and collaborators.](sections/2Audience.md)
+3. [Environmental scan.](sections/3Environment.md)
+4. [Resource assessment.](sections/4Resources.md)
+5. [Outreach.](sections/5Outreach.md) 
+6. [Work plans: Scoping and scheduling.](sections/6Workplan.md)
+7. [Sustainability and data management.](sections/7Sustainability.md)
+8. [Effective partnerships.](sections/8Partnerships.md)
+9. [Finding funding.](sections/9Findingfunds.md)
+10. [Draft project proposal.](sections/10Proposal.md)
+11. [Presentation slide.](sections/11Presentation.md)
+12. [Continue.](sections/continue.md)
 
 ## Why?
 
-Most workshops teach you something: a skill, a method, a practice. But what are you going to do next? Sure you've learned how to start to use R. You might have done some text analysis or written your first webpage, but the real trick is figuring out how to take what you've learned, plan for what comes next, and make your project come to fruition. 
+Most workshops teach you something: a skill, a method, a practice. But what are you going to do next? Sure, you've learned how to start to use Python. You might have done some text analysis or written your first webpage, but the real trick is figuring out how to take what you've learned, plan for what comes next, and make your project come to fruition. 
 
 None of those things can happen without a plan. If you walk out those doors today without a plan for what your next steps will be, it's unlikely that you'll be able to make much progress. There is no possible way for us to teach you everything you need to know, and there's no way for you to learn anything well enough in one week that you can walk out those doors and do everything you want to do. 
 
-### This session will help you: 
+### This session will help you
 
 1. Identify existing resources (and maybe even a few you haven't thought of yet)
 2. Identify your needs
@@ -36,23 +35,21 @@ None of those things can happen without a plan. If you walk out those doors toda
 
 
 ## Read and discuss 
-* [Talking about Viral Texts Failures](https://ryancordell.org/research/VT-database-fail/)
-" I have learned a good deal working on this project about iterative, data-driven research, which had I fully understood earlier might have led me to plan its outputs very differently. My edition-building perspective was not ready for the reality of CS research at all."
+* "I have learned a good deal working on this project about iterative, data-driven research, which had I fully understood earlier might have led me to plan its outputs very differently. My edition-building perspective was not ready for the reality of CS research at all." [Talking about Viral Texts Failures](https://ryancordell.org/research/VT-database-fail/)
 
-### Strategies 
+## Strategies 
 * [Discuss project charter handout](https://github.com/SouthernMethodistUniversity/projectplan/blob/master/sections/charters-handout.pdf)
 * [Group work](https://github.com/SouthernMethodistUniversity/dhclass)
 * [Discuss MOU](https://github.com/pow123/mouworkshop) 
     * [MOU handbook](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
 
 
-
-[Let's get started!>>](sections/1Ideas.md)
+[Let's get started!>>>](sections/1Ideas.md)
 
 
 -----
 Session Leader:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) 
-* Written by Rafia Mirza. Edited by Joanna Russell Bliss
+* Written by Rafia Mirza. Edited by Joanna Russell Bliss.
 
 Based on previous work by Lisa Rhody and a WebWise workshop led by Sheila Brennan, Sharon Leon, and Lisa Rhody.
 

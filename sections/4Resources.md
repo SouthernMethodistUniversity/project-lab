@@ -5,7 +5,7 @@
 
 The next step in our process is figuring out what resources you have available to you and what you still need in order to accomplish your project's objectives. 
 
-## Types of Resources
+## Types of resources
 1. Data
 2. Technology
 3. Human

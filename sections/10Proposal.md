@@ -32,7 +32,7 @@ Rough outline and project calendar that includes project design and evaluation, 
 
 ## Project Resources: Personnel and Management
 
-Description of the why the cooperating institutions and key personnel are well-suited to undertake this work (list of experience and responsibilities of each staff member, and institutional description).
+Description of why the cooperating institutions and key personnel are well-suited to undertake this work (list of experience and responsibilities of each staff member, and institutional description).
 
 ## Sustainability
 

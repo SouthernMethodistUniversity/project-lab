@@ -19,14 +19,15 @@ So it's helpful to think about what you want "done" to look like before you begi
 ## Activity
 Imagine what your project is like when it's over. Imagine what it means to you to set it down and walk away. 
 * What will you do with it? 
-* How will you know if it succeded? 
+* How will you know if it succeeded? 
 * Who was the last person to care about it? 
 * Why? 
 
 Now, in 2-3 sentences, describe the purpose of your project to a non-expert audience. 
  * Does it solve a problem? 
  * Meet an institutional need? 
- * Put an existing resource to new use?  
+ * Put an existing resource to new use?
+ * Serve a pedagogical goal?
 
 -----
 

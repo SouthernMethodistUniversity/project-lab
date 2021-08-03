@@ -1,8 +1,26 @@
 [<<<Previous](9Findingfunds.md) | [Next>>>](11Presentation.md)
 
-# Short project proposal (2-3 pages)
+# Scoping 
 
-What follows is a template for writing a short project proposal that, once developed, will position you to move forward with building partnerships with other institutions or for pursuing funding opportunities. Though this template does not directly reflect a specific grant narrative format, the short project proposal includes important project-development steps that can later form the basis for a wide variety of grant narratives.
+## Brief Project Plan 
+
+* You can have something very lightweight like a Project charter 
+*   [Project charter handout](https://github.com/SouthernMethodistUniversity/projectplan/blob/master/sections/charters-handout.pdf)
+
+Template: list the following 
+* Project title:
+* 2 sentence abstract:
+* What resources do you have now?
+* What have you learned this week that will help you?
+* What additional support will you need as you take your next steps?
+
+## Short project proposal (2-3 pages)
+
+* If you are planning a long term project at scale, across multiple departments, something more robust like a MOU would be recommended. 
+    * [MOU Slides](https://github.com/pow123/mouworkshop) 
+    * [MOU handbook](https://rc.library.uta.edu/uta-ir/handle/10106/25646)
+
+Template: What follows is a template for writing a short project proposal that, once developed, will position you to move forward with building partnerships with other institutions or for pursuing funding opportunities. Though this template does not directly reflect a specific grant narrative format, the short project proposal includes important project-development steps that can later form the basis for a wide variety of grant narratives.
 
 ## Project Details
 * Title:

@@ -14,14 +14,10 @@ Now that you have started to form
 
 1. Check federal, state, and local grant-making agencies, and local foundations for possibility of grants.
 
-	* Federal agencies list all of their available grants at https://grants.gov.
-	* States also have opportunities for grants, such as state humanities councils. 
-	* Private foundations are also possible areas to look. The following may prove useful: 
-		* The Foundation Center: http://foundationcenter.org
-		* A Directory of State and Local Foundations: 
-http://foundationcenter.org/getstarted/topical/sl_dir.html
-		* The Council on Foundations Community Foundation Locator: https://www.cof.org/community-foundation-locator
-	 * The USDA offers a valuable Guide to Funding Resources: https://www.nal.usda.gov/ric/guide-to-funding-resources
+	* Federal agencies [list all of their available grants.](https://grants.gov)
+	* States also have opportunities for grants, such as state humanities councils.
+		* [Humanities Texas](https://www.humanitiestexas.org/grants)	 
+	* Private foundations are also possible areas to look. 
 
 2. Check your institution’s eligibility for a potential grants before beginning the application process. Eligibility requirements and restrictions are often found in grant guidelines.
 
@@ -34,7 +30,7 @@ http://foundationcenter.org/getstarted/topical/sl_dir.html
 6. Does your institution have an Office of Career Services?  Do they have resources for those interested in external fellowships?
 
 ## Activity
-Find one or two grant opportunites in your subject area. Consider also looking for fellowship opportunities. 
+Find one or two grant opportunities in your subject area. Consider also looking for fellowship opportunities. 
 
 [<<<Previous](8Partnerships.md) | [Next>>>](10Proposal.md)
 

@@ -23,7 +23,6 @@ Outreach can take many different forms, from presenting your research at confere
 
 
 
-
 2. Consider the early, middle, and final stages of your project. What kinds of outreach activities could you fit in at each stage? What audiences would you try to reach? Would they change over time? 
 
 

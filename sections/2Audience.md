@@ -32,14 +32,7 @@
 
 If you are working on a project that is institutionally based (such as creating a platform, creating a resource, or building a teaching tool), you may have institutional partners who have a stake in your project's success.  It's a good idea to identify these folks and consider their interests and needs as well. 
 
-Possible stakeholders include: your library, colleagues, IT division, academic program, a center, or institute who shares your mission and/or goals. 
-
-<!-- Example of a "stakeholder":
-
-### Sample: 
-1. Needs: The New Media Lab has student fellows who develop digital projects. They have expressed interest in finding a data management tool that allows students to create a plan for how to handle various types of data files. 
-2. Resources/Relationships: I'm also a fellow in the New Media Lab, and they might be willing to help test my tool. 
-3. Limitations/Concessions: They are more interested in using open source software than many of the other students I work with. --> 
+Possible stakeholders include: your library, colleagues, OIT division, academic program, a center, or institute who shares your mission and/or goals. 
 
 ## Activity: 
 

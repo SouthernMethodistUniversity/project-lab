@@ -54,7 +54,6 @@ What data resources do you have at your disposal? What do you still need? What s
 * Will you choose open source platforms or proprietary ones? 
 
 ### Example
-
 * Have: basic knowledge of git and python and some nltk
 * Need: I need a more powerful computer, to learn how to install and use Beautiful Soup, and to get help cleaning the data. I will also need to learn about the D3.js library. 
 
@@ -80,10 +79,9 @@ Looking back at the Audiences worksheet, review which of your audiences were inv
 
 ### Institution
 * What resources are available to you through your institution? 
-* What services or support might be available through the your institution? Does your insitution have a digital research support network? 
+* What services or support might be available through the your institution? Does your institution have a digital research support network? 
 * Have you applied for internal funding? Where would you look? 
 * Are there resources at your institution for hosting, data sharing, and/or preservation? 
-
 
 
 

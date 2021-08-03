@@ -62,13 +62,13 @@ What you will find in this repository.
 
 [Finding funding.](sections/9Findingfunds.md)
 
-[Draft project proposal.](sections/10Proposal.md)
+[Draft project plan/proposal.](sections/10Proposal.md)
 
 [Required before this session (8/12/21)](sections/async.md)
 
 [Continue.](sections/continue.md)
 -----
-Session Leader:  [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) 
+Session Leader: [Rafia Mirza](http://guides.smu.edu/prf.php?account_id=142826/) 
 * Written by Rafia Mirza. Edited by Joanna Russell Bliss.
 
 Based on previous work by Lisa Rhody and a WebWise workshop led by Sheila Brennan, Sharon Leon, and Lisa Rhody.

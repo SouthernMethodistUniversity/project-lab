@@ -1,7 +1,7 @@
 
 [<<<Previous](6Workplan.md) | [Next>>>](8Partnerships.md)
 
-# Sustainability and data management
+# :yellow_circle:Sustainability and data management
 
 You will need to come up with a plan for how you are going to manage the "data" created by your project. Data management plans, now required by most funders, will ask for you to list all the types of data and metadata created over the duration of the project and then account for the various manners by which you will account for various versions, make the datasets available openly (if possible) and share your data. 
 

@@ -18,12 +18,6 @@ None of those things can happen without a plan. If you walk out those doors toda
 4. Find new resources
 5. Communicate your plan
 
-## Project Planning is a skill that we will discuss
-* There may be workshops available, or they may be those in your community or at you institution who have project management experience or are Project Management Professionals (PMP). 
-* Rememeber your goal, and account for the: time, labor (expertise) and money you have availible for this project. 
-* There is a maxim that a project can be 2 of the 3 following things (but not all 3): fast, cheap or good.
-
-
 ## Process for DHRI
 * We will be sharing the links to a Github Repository for each session in Slack before each synchronous session. You can also get to them from the [Curriculum page](https://southernmethodistuniversity.github.io/home/curriculum.html).
 * This is the first year where DHRI has been planned to have both asynchronous and synchronous components. Here is how we have organized the content.  

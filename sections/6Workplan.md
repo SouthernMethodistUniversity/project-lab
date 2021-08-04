@@ -1,6 +1,6 @@
 [<<<Previous](5Outreach.md) | [Next>>>](7Sustainability.md)
 
-# Work plans: Scoping and scheduling your work
+# :yellow_circle:Work plans: Scoping and scheduling your work
 
 Work plans describe the work to be done, the deadlines by which the work will be done, and who will do the work. 
 

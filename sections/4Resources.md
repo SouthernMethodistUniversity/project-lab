@@ -1,7 +1,7 @@
 
 [<<<Previous](3Environment.md) | [Next>>>](5Outreach.md)
 
-# Resource assessment
+# :yellow_circle:Resource assessment
 
 The next step in our process is figuring out what resources you have available to you and what you still need in order to accomplish your project's objectives. 
 

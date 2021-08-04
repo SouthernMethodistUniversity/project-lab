@@ -1,7 +1,7 @@
 
 [<<<Previous](7Sustainability.md) | [Next>>>](9Findingfunds.md)
 
-# Effective partnerships
+# :yellow_circle: Effective partnerships
 
 After brainstorming your project ideas and assessing your available resources, it is time to scope out potential partners to help fill in gaps and formalize relationships. 
 

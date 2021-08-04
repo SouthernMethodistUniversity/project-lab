@@ -1,6 +1,6 @@
-[<<<Previous](9Findingfunds.md) | [Next>>>](11Presentation.md)
+[<<<Previous](9Findingfunds.md) | [Next>>>](async.md)
 
-# Scoping 
+# :yellow_circle:Scoping 
 
 ## Brief Project Plan 
 
@@ -56,7 +56,7 @@ Description of why the cooperating institutions and key personnel are well-suite
 
 If applicable, describe how this project will live beyond the grant period. Will it continue to be accessible? How so? A data management plan might need to be specified here.
 
-[<<<Previous](9Findingfunds.md) | [Next>>>](11Presentation.md)
+[<<<Previous](9Findingfunds.md) | [Next>>>](async.md)
 
 
 -----

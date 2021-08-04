@@ -1,6 +1,6 @@
-[<<< Previous](https://github.com/SouthernMethodistUniversity/projectplan) | [Next >>>](2Audience.md) 
+[<<< Previous](process.md) | [Next >>>](2Audience.md) 
 
-# Begin by thinking about the end
+# :yellow_circle:Begin by thinking about the end
 
 ## What does "done" look like? 
 
@@ -31,7 +31,7 @@ Now, in 2-3 sentences, describe the purpose of your project to a non-expert audi
 
 -----
 
-[<<< Previous](https://github.com/SouthernMethodistUniversity/projectplan) | [Next >>>](2Audience.md) 
+[<<< Previous](process.md) | [Next >>>](2Audience.md) 
 
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/projectplan)

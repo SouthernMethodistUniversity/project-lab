@@ -1,6 +1,4 @@
-[<<<Previous](10Proposal.md) | [Next>>](continue.md)
-
-# Summary: **What to do before this synchronous session**
+[<<< Previous](https://github.com/SouthernMethodistUniversity/projectplan) | [Next >>>](1Ideas.md) 
 
 
 ## :white_check_mark:Project Planning is a skill
@@ -28,10 +26,9 @@
     * If failure is a part of the process, what does that change about how you might approach projects? 
 
 
+-----
 
-
-
-[<<<Previous](10Proposal.md) | [Next>>](continue.md)
+[<<< Previous](https://github.com/SouthernMethodistUniversity/projectplan) | [Next >>>](1Ideas.md) 
 
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/projectplan)

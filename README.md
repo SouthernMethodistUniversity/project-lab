@@ -36,13 +36,14 @@ None of those things can happen without a plan. If you walk out those doors toda
 
 
 
-[Let's get started!>>>](sections/1Ideas.md)
+[Let's get started!>>>](sections/process.md)
 
 ----
 
 What you will find in this repository.
 
 -----
+[Process of Project Planning](sections/process.md)
 
 [Begin with the end in mind.](sections/1Ideas.md)
 

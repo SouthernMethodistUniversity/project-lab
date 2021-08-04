@@ -6,7 +6,7 @@
 * Remember your goal, and account for the: time, labor (expertise), and money you have available for your project. 
     * There is a maxim that a project can be 2 of the 3 following things (but not all 3): [fast, cheap or good.](https://medium.com/@devsociety_/good-cheap-fast-pick-two-and-how-ngos-can-play-the-triangle-like-a-pro-20d1380884a8)
 
-# What is DH
+# What is a DH project? 
 * We find it helps to think of a DH project as a iterative and recursive process, not simply a series of outputs. 
 
 ## Scoping 

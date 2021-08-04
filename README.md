@@ -19,8 +19,8 @@ None of those things can happen without a plan. If you walk out those doors toda
 5. Communicate your plan
 
 ## Project Planning is a skill that we will discuss
-* Tthere may be workshops availible, or they may be those in your community or at you institions who have project management experiecne or are Project Management Professionals (PMP). 
-* Rememebr your goal, and account for the: time, labor (expertise) and money you have availible for this project. 
+* There may be workshops available, or they may be those in your community or at you institution who have project management experience or are Project Management Professionals (PMP). 
+* Rememeber your goal, and account for the: time, labor (expertise) and money you have availible for this project. 
 * There is a maxim that a project can be 2 of the 3 following things (but not all 3): fast, cheap or good.
 
 

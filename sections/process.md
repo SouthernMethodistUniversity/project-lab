@@ -11,7 +11,9 @@
 
 ## Scoping 
 * [How does this project charter handout apply to your project ?](https://github.com/SouthernMethodistUniversity/projectplan/blob/master/sections/charters-handout.pdf)
-* Can you fill out any of these sections for your project?
+* How does this apply to a project you have in mind or have worked on in the past?
+* Can you fill out any of these sections for your project? *or* Thinking of some of the projects we have looked at, how would you answer these questions for those projects (ex. Viral Texts). 
+* How would using this tool for project palling help you in your process?
 
 ## :white_check_mark: **Read the following post  before this session.**
 * " I'm pretty comfortable with failure because the path to learning runs through failure. It's not something that we think about a lot in the humanities, though in the digital humanities we're getting to a point where I think this is is becoming more obvious. In other disciplines it's much more evident that failure and learning are so closely tied." - [Towards a Taxonomy of Failure](http://quinndombrowski.com/?q=blog/2019/01/30/towards-taxonomy-failure)

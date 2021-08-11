@@ -1,12 +1,11 @@
 
 [<<<Previous](2Audience.md)	| [Next>>>](4Resources.md)
 
-# :yellow_circle:Environmental scan (literature and technology review)
+# :yellow_circle: Environmental scan (literature and technology review) :yellow_circle:
 
-Conducting an in-depth environmental scan and literature review early in the planning process is a critical step to see if there are existing projects that are similar to your own or that may accomplish similar goals to your potential project. Sometimes, the planning process stops after the scan--because you find that someone has already done it! Typically, a scan is useful in articulating and justifying the "need" for your research OR to justify your choice of one technology in lieu of others. Performing an environmental scan early and reviewing and revising it periodically will go a long way to help you prove that your project fills a current need for an actual audience. 
+Conducting an in-depth environmental scan and literature review early in the planning process is a critical step to see if there are existing projects that are similar to your own or that may accomplish similar goals to your potential project. Sometimes, the planning process stops after the scan -- because you find that someone has already done it! Typically, a scan is useful in articulating and justifying the "need" for your research OR to justify your choice of one technology in lieu of others. Performing an environmental scan early and reviewing and revising it periodically will go a long way to help you prove that your project fills a current need for an actual audience. 
 
 Successful project proposals demonstrate knowledge of the ecosystem of existing projects in your field, and the field's response to those projects. Scans often help organizations identify potential collaborators, national initiatives, publications, articles, or professional organizations, which in turn can demonstrate a wider exigency for your project. Following a preliminary scan, you should be able to explain why your project is important to the field, what it provides that does not currently exist, and how your project can serve as a leader or example to other organizations in such a way that they can put your findings to new issue. 
-
 
 Below are **suggestions** for finding similar projects and initiatives in and outside of your field: 
 
@@ -36,7 +35,7 @@ Below are **suggestions** for finding similar projects and initiatives in and ou
 * [PLOS](http://blogs.plos.org/)
 * [AAAS Trellis](https://www.trelliscience.com/#/site-hom)e
 
-### Other places to check: 
+## Other places to check: 
 
 * Search preprint repositories, academic repositories, and data warehouses for similar datasets.
 * Check conference programs and gray literature from your field and related materials. 

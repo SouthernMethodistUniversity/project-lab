@@ -12,7 +12,7 @@
  
 ## :white_check_mark: Read the following post.
 
-* "I'm pretty comfortable with failure because the path to learning runs through failure. It's not something that we think about a lot in the humanities, though in the digital humanities we're getting to a point where I think this is is becoming more obvious. In other disciplines it's much more evident that failure and learning are so closely tied." - [Towards a Taxonomy of Failure](http://quinndombrowski.com/?q=blog/2019/01/30/towards-taxonomy-failure)
+"I'm pretty comfortable with failure because the path to learning runs through failure. It's not something that we think about a lot in the humanities, though in the digital humanities we're getting to a point where I think this is is becoming more obvious. In other disciplines it's much more evident that failure and learning are so closely tied." - [Towards a Taxonomy of Failure](http://quinndombrowski.com/?q=blog/2019/01/30/towards-taxonomy-failure)
 
 Respond to the following in the thread in Slack:
 1.	Do you have an example where you experienced the types of failure described here? 

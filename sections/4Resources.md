@@ -1,9 +1,9 @@
 
 [<<<Previous](3Environment.md) | [Next>>>](5Outreach.md)
 
-# :yellow_circle:Resource assessment
+# :yellow_circle: Resource assessment :yellow_circle:
 
-The next step in our process is figuring out what resources you have available to you and what you still need in order to accomplish your project's objectives. 
+The next step in our process is figuring out what resources you have available to you, and what you still need in order to accomplish your project's objectives. 
 
 ## Types of resources
 1. Data

@@ -1,6 +1,8 @@
  # Project Laboratory
 
-We are going to work out the process for designing your digital research project in this session. Good--or shall we say effective--projects begin with a plan. It's true those plans may change over the life cycle of the project. Your questions may change. Your funding may change. Even the shape your "final" research project takes may change. 
+We are going to work out the process for designing your digital research project in this session. 
+
+Good -- or shall we say effective -- projects begin with a plan. It's true those plans may change over the life cycle of the project. Your questions may change. Your funding may change. Even the shape your "final" research project takes may change. 
 
 What separates projects that turn into something from those that stall out and go nowhere is the formulation of a **reasonable, informed, and purposeful plan**.
 
@@ -10,7 +12,7 @@ Most workshops teach you something: a skill, a method, a practice. But what are 
 
 None of those things can happen without a plan. If you walk out those doors today without a plan for what your next steps will be, it's unlikely that you'll be able to make much progress. There is no possible way for us to teach you everything you need to know, and there's no way for you to learn anything well enough in one week that you can walk out those doors and do everything you want to do. 
 
-### This session will help you
+## This session will help you
 
 1. Identify existing resources (and maybe even a few you haven't thought of yet)
 2. Identify your needs
@@ -30,13 +32,13 @@ None of those things can happen without a plan. If you walk out those doors toda
 * If text appears blue in a repository, that just means it is a hyperlink.
     * These repositories are structured in such a way that they will direct our conversations during the institute, but also so that you can return to them later to review the material. 
 
-## Required before this session (8/3/21)
+## Required before this session (8/12/21)
 * All content is :white_check_mark: marked throughout; it is also all gathered on [this page](sections/async.md). 
 
 
 
 
-[Let's get started!>>>](sections/process.md)
+[Let's get started! >>>](sections/process.md)
 
 ----
 

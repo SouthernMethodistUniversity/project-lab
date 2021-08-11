@@ -30,7 +30,7 @@
 
 ### Abstract
 
-150 word summary of project (1 short paragraph)
+150-word summary of project (1 short paragraph)
 
 ### The Need
 

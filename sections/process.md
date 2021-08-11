@@ -15,7 +15,7 @@
 * Can you fill out any of these sections for your project? *or* Thinking of some of the projects we have looked at, how would you answer these questions for those projects (ex. Viral Texts). 
 * How would using this tool for project planing help you in your process?
 
-### :white_check_mark: **Read the following posts before this session.**
+### :white_check_mark: Read the following post.
 "I have learned a good deal working on this project about iterative, data-driven research, which had I fully understood earlier might have led me to plan its outputs very differently. My edition-building perspective was not ready for the reality of CS research at all." [Talking about Viral Texts Failures](https://ryancordell.org/research/VT-database-fail/)
 
 [Now take a look at the Brief Charter handout](https://github.com/SouthernMethodistUniversity/projectplan/blob/master/sections/charters-handout.pdf) and respond to the following in the thread in Slack:
@@ -23,6 +23,7 @@
 2.	If a charter cannot guarantee success, why use it? 
 3.	How is this similar or different than other project planning approaches you have used?
 
+### :white_check_mark: Read the following post.
 "I'm pretty comfortable with failure because the path to learning runs through failure. It's not something that we think about a lot in the humanities, though in the digital humanities we're getting to a point where I think this is is becoming more obvious. In other disciplines it's much more evident that failure and learning are so closely tied." - [Towards a Taxonomy of Failure](http://quinndombrowski.com/?q=blog/2019/01/30/towards-taxonomy-failure)
 
 Respond to the following in the thread in Slack:

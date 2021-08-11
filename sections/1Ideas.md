@@ -1,6 +1,6 @@
 [<<< Previous](process.md) | [Next >>>](2Audience.md) 
 
-# :yellow_circle:Begin by thinking about the end
+# :yellow_circle: Begin by thinking about the end :yellow_circle:
 
 ## What does "done" look like? 
 

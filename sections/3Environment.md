@@ -34,7 +34,7 @@ Some examples of places to look include:
     * [SSRC's Items](http://items.ssrc.org/)
     * [Informal Science](http://www.informalscience.org/)
     * [PLOS](http://blogs.plos.org/)
-    * [AAAS Trellis](https://www.trelliscience.com/#/site-hom)e
+    * [AAAS Trellis](https://www.trelliscience.com/#/site-hom)
 
 ### Other places to check: 
 

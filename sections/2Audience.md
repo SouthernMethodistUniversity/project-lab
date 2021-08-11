@@ -9,19 +9,19 @@
 
 ## Your project **always** has an audience. 
 
- * *You* are an audience. 
+ * *You* are an audience
  * Your dissertation advisor
  * Your dissertation committee
  * Researchers interested in your subject area
  * Researchers working on related questions
 
 
- *Projects typically satisfy more than one audience's need. The key to identifying a well-defined audience is research and creating several narrow profiles*
+ *Projects typically satisfy more than one audience's need. The key to identifying a well-defined audience is research and creating several narrow profiles.*
  
 ### Sample 1: 
 
 1. Needs/Interest: Faculty who teach undergraduate linguistics classes are looking for an engaging way to teach fundamental linguistics concepts through guided practice and repetition. 
-2. Resources: They have access to chrome books, laptops, and tablets in the classroom with limited wifi. They are unable to update software frequently, but they can use web applications. 
+2. Resources: They have access to Chrome books, laptops, and tablets in the classroom with limited Wi-Fi. They are unable to update software frequently, but they can use web applications. 
 3. Limitations: This audience needs clear and specific documentation and has a low threshold for errors. 
 
 ### Sample 2: 

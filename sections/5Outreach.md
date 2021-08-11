@@ -1,20 +1,18 @@
 [<<<Previous](4Environment.md) | [Next>>>](6Workplan.md)
 
-# :yellow_circle:Outreach
+# :yellow_circle: Outreach :yellow_circle:
 
-Outreach can take many different forms, from presenting your research at conferences and through peer-reviewed scholarly publications, but also through blog posts, Twitter conversations, forums, and/or press releases. The key to a good outreach plan is to being earlier than you think is necessary, and give your work a public presence (via Tumblr, Twitter, website, etc). You can use your outreach contacts to ask for feedback and input as well as share challenges and difficult decisions. 
-
+Outreach can take many different forms, from presenting your research at conferences and through peer-reviewed scholarly publications, but also through blog posts, Twitter conversations, forums, and/or press releases. The key to a good outreach plan is to being earlier than you think is necessary, and giving your work a public presence (via Tumblr, Twitter, a website, etc.). You can use your outreach contacts to ask for feedback and input as well as share challenges and difficult decisions. 
 
 * Will you create a website for your project? 
 * How will you share your work? 
-* Will you publish in a traditional paper or in a less-traditional format? 
+* Will you publish in a traditional paper or in a less-traditional format? Or both?
 * Whom will you reach out to get the word out about your work? 
 * Is there someone at your college who can help you to publicize your accomplishments? 
 * Will you have a logo? Twitter account? Tumblr page? Why or why not? 
 * Can you draw on  your colleagues to help get the word out about your work? 
 * What information could you share about your project at its earliest stages? 
 * Does your project have a title? 
-
 
 ## Activity
 

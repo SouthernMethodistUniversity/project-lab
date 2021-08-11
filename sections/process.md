@@ -19,7 +19,7 @@
 * " I'm pretty comfortable with failure because the path to learning runs through failure. It's not something that we think about a lot in the humanities, though in the digital humanities we're getting to a point where I think this is is becoming more obvious. In other disciplines it's much more evident that failure and learning are so closely tied." - [Towards a Taxonomy of Failure](http://quinndombrowski.com/?q=blog/2019/01/30/towards-taxonomy-failure)
 * "I have learned a good deal working on this project about iterative, data-driven research, which had I fully understood earlier might have led me to plan its outputs very differently. My edition-building perspective was not ready for the reality of CS research at all." [Talking about Viral Texts Failures](https://ryancordell.org/research/VT-database-fail/)
 
-### Discussion: 
+### Reflection Prompts: 
 * How do you think about failure and learning in regards to DH projects? 
 *  Good project planning does not guarantee success, but it gives you the best chance of success, or for a 'failure' you can still build upon. 
     * Rafia says: Project planning is as much about managing expectations as it it about successfully completing a porject. 

@@ -14,7 +14,8 @@ Now that you have started to form
 
 1. Check federal, state, and local grant-making agencies, and local foundations for possibility of grants.
 
-	* Federal agencies [list all of their available grants.](https://grants.gov)
+	* Federal agencies 
+		* [List of all available Federal grants.](https://grants.gov)
 	* States also have opportunities for grants, such as state humanities councils.
 		* [Humanities Texas](https://www.humanitiestexas.org/grants)	 
 	* Private foundations are also possible areas to look. 

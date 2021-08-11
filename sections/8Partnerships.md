@@ -1,7 +1,7 @@
 
 [<<<Previous](7Sustainability.md) | [Next>>>](9Findingfunds.md)
 
-# :yellow_circle: Effective partnerships
+# :yellow_circle: Effective partnerships :yellow_circle:
 
 After brainstorming your project ideas and assessing your available resources, it is time to scope out potential partners to help fill in gaps and formalize relationships. 
 
@@ -33,7 +33,7 @@ Once you know where you need help, start thinking about who you know who might h
 * Determine who the primary contact for inter-institutional communications will be.
 * Designate staff titles and responsibilities, including a description of job responsibilities over the life-cycle of the project.
 
-## Communicate effectively
+### Communicate effectively
 * Early on, establish communication norms, including regular meeting times, means for meeting (conference calls, Skype, Hangouts, et al), and best ways to communicating in between meetings (i.e., email only), and collect all preferred contact information and publish it somewhere accessible to the entire team.
 * Use project management software for organizing project tasks, deadlines, and deliverable requirements that makes all of this information easily accessible and visible to project collaborators.
 * If working with geographically-dispersed collaborators, be sure to schedule face-to-face meetings at a reasonable, yet, regular interval.
@@ -42,7 +42,7 @@ Once you know where you need help, start thinking about who you know who might h
 ## Stay flexible
 * No project is able to anticipate all problems or challenges before they occur, but simply acknowledging that challenges may arise, and allowing time and budget for those challenges is helpful.
 
-### Bad marriages
+## Bad marriages
 
 * Not all collaborations work out as planned, even with the best of intentions.
 * If there is a major breakdown in communications, or if relationships deteriorate, you may need to break apart partnerships.

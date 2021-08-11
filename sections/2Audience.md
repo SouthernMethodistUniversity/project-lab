@@ -1,6 +1,6 @@
 [<<<Previous](sections/1Ideas.md)	| [Next>>>](3Environment.md)
 
-# :yellow_circle:Identifying audiences, constituencies, & collaborators
+# :yellow_circle: Identifying audiences, constituencies, & collaborators :yellow_circle:
 
  * Who will participate in, use, and/or benefit from the project? 
  * Is there a specific group already asking for this new resource? Who? 

@@ -23,7 +23,7 @@ Some examples of places to look include:
     * [Digital Humanities Now](http://digitalhumanitiesnow.org/)
     * [DHQ](http://digitalhumanities.org/dhq/)
     * [List of additional DH journals](https://digitalhumanities.berkeley.edu/resources/digital-humanities-journals)
-    * [DiRT registry of digital humanities tools (note:last updated 2015)](https://digitalhumanities.berkeley.edu/resources/digital-research-tools-dirt-directory) 
+    * [DiRT registry of digital humanities tools (Note: Last updated 2015)](https://digitalhumanities.berkeley.edu/resources/digital-research-tools-dirt-directory) 
 * GLAMS
     * [The Signal: Digital Preservation](http://blogs.loc.gov/digitalpreservation/)
     * [Curator Journal](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2151-6952)

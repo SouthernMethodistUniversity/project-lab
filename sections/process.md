@@ -32,8 +32,8 @@ Respond to the following in the thread in Slack:
 
 ### Reflection Prompts: 
 * How do you think about failure and learning in regards to DH projects? 
-*  Good project planning does not guarantee success, but it gives you the best chance of success, or for a 'failure' you can still build upon. 
-    * Rafia says: Project planning is as much about managing expectations as it it about successfully completing a porject. 
+* Good project planning does not guarantee success, but it gives you the best chance of success, or for a 'failure' you can still build upon. 
+    * Rafia says: Project planning is as much about managing expectations as it it about successfully completing a project. 
 * Good failure: Research is complicated! You may not answer your question or meet the criteria you set for success as originally envisioned, but the 'failed' project is still generative. Think of it as a learning experience and a foundation that you can build upon.
 * Bad failure: failure of communication or planning, does not generate alternate options or possibilities. 
     * If failure is a part of the process, what does that change about how you might approach projects? 

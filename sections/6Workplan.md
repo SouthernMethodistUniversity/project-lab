@@ -1,10 +1,10 @@
 [<<<Previous](5Outreach.md) | [Next>>>](7Sustainability.md)
 
-# :yellow_circle:Work plans: Scoping and scheduling your work
+# :yellow_circle: Work plans: Scoping and scheduling your work :yellow_circle:
 
 Work plans describe the work to be done, the deadlines by which the work will be done, and who will do the work. 
 
-What follows are several possible ways to organize your project's work plan. Project work plans are often organized in one of two ways: by the order of deliverables or tasks OR by calendar year. This may be determined by a grant's application deadlines, your fellowship timeline, a book or dissertation deadline, or your own arbitrary deadline. If you are applying for funding, you will want to check to see if the grant you are applying for specifies a format for the work plan. You may want to look at examples of previous, successful grants for examples. Most federal grant agencies post vetted copies of previously awarded applications for this purpose. 
+What follows are several possible ways to organize your project's work plan. Project work plans are often organized in one of two ways: By the order of deliverables or tasks OR by calendar year. This may be determined by a grant's application deadlines, your fellowship timeline, a book or dissertation deadline, or your own arbitrary deadline. If you are applying for funding, you will want to check to see if the grant you are applying for specifies a format for the work plan. You may want to look at examples of previous, successful grants for examples. Most federal grant agencies post vetted copies of previously awarded applications for this purpose. 
 
 ## Creating a plan
 ### Preliminary questions

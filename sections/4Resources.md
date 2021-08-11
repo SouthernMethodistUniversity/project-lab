@@ -45,7 +45,7 @@ What data resources do you have at your disposal? What do you still need? What s
 
 ### Technology
 * Name all the types of technology that you will need to go from "raw data" to "final project." If you don't know the name of the technology, you can just describe it.
-    * **Example**: First I will scrape texts from poetry websites like poets.org from the internet using a Python library called Beautiful Soup. Next, I will clean my data using Python, explore the data in NLTK to look for co-ocurrances of the words "painting" and "sea." I will store my results using GitHub, and visualize the results using the D3.js libraries. I will use these visualizations to write the second half of my article. When the project is done, I will deposit the dataset into the Academic Works repository."
+    * **Example**: "First I will scrape texts from poetry websites like poets.org from the internet using a Python library called Beautiful Soup. Next, I will clean my data using Python, explore the data in NLTK to look for co-ocurrances of the words "painting" and "sea." I will store my results using GitHub, and visualize the results using the D3.js libraries. I will use these visualizations to write the second half of my article. When the project is done, I will deposit the dataset into the Academic Works repository."
 * Do you need a server or other cloud-computing environment? 
 * Do you have someone who can work on the public-facing presence of the project (design skills)?
 * Where will you host your project?

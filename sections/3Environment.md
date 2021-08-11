@@ -12,30 +12,31 @@ Below are **suggestions** for finding similar projects and initiatives in and ou
 ## Federal grant agencies maintain repositories with white papers from previously funded grant projects:
 * [Institute of Museum and Library Services: Grant Programs](https://www.imls.gov/grants/grant-programs)
 * [National Endowment for the Humanities (NEH): Grants](https://www.neh.gov/grants) 
-* [National Endowment for the Arts (NEA) Grants](https://www.arts.gov/grants) 
+* [National Endowment for the Arts (NEA): Grants](https://www.arts.gov/grants) 
 * [National Science Foundation (NSF): Funding](https://www.nsf.gov/funding/)
 * [National Institutes of Health (NIH): Grants & Funding](https://www.nih.gov/grants-funding)
 
 ## Search and browse through literature in the field and resources for digital tools and innovations. 
-* Some examples of places to look include: 
-    * DH
-* [Digital Humanities Now](http://digitalhumanitiesnow.org/)
-* [DHQ](http://digitalhumanities.org/dhq/)
-* [List of additional DH journals](https://digitalhumanities.berkeley.edu/resources/digital-humanities-journals)
-* [DiRT registry of digital humanities tools (note:last updated 2015)](https://digitalhumanities.berkeley.edu/resources/digital-research-tools-dirt-directory) 
-    * GLAMS
-* [The Signal: Digital Preservation](http://blogs.loc.gov/digitalpreservation/)
-* [Curator Journal](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2151-6952)
-* [American Archivist](http://www2.archivists.org/american-archivist#.V1kWCZMrLGI)
-* [Center for the Future of Museums](http://www.aam-us.org/resources/center-for-the-future-of-museums)
-* [IMLS](https://www.imls.gov/blog)
-    * Science & Social Science 
-* [SSRC's Items](http://items.ssrc.org/)
-* [Informal Science](http://www.informalscience.org/)
-* [PLOS](http://blogs.plos.org/)
-* [AAAS Trellis](https://www.trelliscience.com/#/site-hom)e
+Some examples of places to look include: 
 
-## Other places to check: 
+* DH
+    * [Digital Humanities Now](http://digitalhumanitiesnow.org/)
+    * [DHQ](http://digitalhumanities.org/dhq/)
+    * [List of additional DH journals](https://digitalhumanities.berkeley.edu/resources/digital-humanities-journals)
+    * [DiRT registry of digital humanities tools (note:last updated 2015)](https://digitalhumanities.berkeley.edu/resources/digital-research-tools-dirt-directory) 
+* GLAMS
+    * [The Signal: Digital Preservation](http://blogs.loc.gov/digitalpreservation/)
+    * [Curator Journal](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2151-6952)
+    * [American Archivist](http://www2.archivists.org/american-archivist#.V1kWCZMrLGI)
+    * [Center for the Future of Museums](http://www.aam-us.org/resources/center-for-the-future-of-museums)
+    * [IMLS](https://www.imls.gov/blog)
+* Science & Social Science 
+    * [SSRC's Items](http://items.ssrc.org/)
+    * [Informal Science](http://www.informalscience.org/)
+    * [PLOS](http://blogs.plos.org/)
+    * [AAAS Trellis](https://www.trelliscience.com/#/site-hom)e
+
+### Other places to check: 
 
 * Search preprint repositories, academic repositories, and data warehouses for similar datasets.
 * Check conference programs and gray literature from your field and related materials. 
@@ -55,7 +56,7 @@ The key to the environmental scan is to see what a wider community is already up
 
 5. Once you have gathered information about what is "out there," what are the limits of what you are willing to change about your own project in response? How will you know if you have stretched beyond the core objectives of your own research project? 
 
-[<<<Previous](2Audience.md)	| [Next>>>](4Resources.md)
+[<<<Previous](2Audience.md) | [Next>>>](4Resources.md)
 
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/projectplan)

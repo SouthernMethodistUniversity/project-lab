@@ -1,7 +1,7 @@
 [<<<Previous](8Partnerships.md) | [Next>>>](10Proposal.md)
 
 
-# :yellow_circle: Finding funding
+# :yellow_circle: Finding funding :yellow_circle:
 
 Now that you have started to form
 

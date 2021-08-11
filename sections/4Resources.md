@@ -53,31 +53,31 @@ What data resources do you have at your disposal? What do you still need? What s
 * Do you need mobile devices? 3D printers? other hardware or software? 
 * Will you choose open source platforms or proprietary ones? 
 
-### Example
-* Have: basic knowledge of git and python and some nltk
+#### Example
+* Have: I have basic knowledge of Git and Python and some NLTK.
 * Need: I need a more powerful computer, to learn how to install and use Beautiful Soup, and to get help cleaning the data. I will also need to learn about the D3.js library. 
 
-## Human resources
+### Human resources
 Looking back at the Audiences worksheet, review which of your audiences were invested in your work. Who can you draw on for support? Consider the various roles that might be necessary for the project. Who will fill those roles? 
 * Design
 * Maintenance and support
 * Coding/programming
-* Outreach / documentation
+* Outreach/documentation
 * Project management
 
-### Locally
-* Have you met anyone at this week's institute who is working on a similar kind of project that uses similar methods? 
+#### Locally
+* Have you met anyone at this week's Institute who is working on a similar kind of project that uses similar methods? 
 * Are there other colleagues in your program who are interested in using similar technologies or methods? 
 * Is there a digital scholarship librarian at your college? Have you signed up for the GC Digital Fellows email list? 
 * Who is going to manage the work of the project? Is it you? What if the project grows? 
 * Do you need to bring someone on board who has a more extensive digital skill set? Other content knowledge? Describe what that person would do on the project. 
 
-### Remote
+#### Remote
 * Is there an online research community that you could connect to such as an online forum? Blog? Research center? 
 * If you have presented at a conference or are part of a scholarly society or other group, do they have a listserv with people who are interested in the same technologies or research questions? 
 * Do people in your field use Twitter or another social network platform to communicate? Could you create a hashtag for people who share similar research interests and/or technology needs? 
 
-### Institution
+#### Institution
 * What resources are available to you through your institution? 
 * What services or support might be available through the your institution? Does your institution have a digital research support network? 
 * Have you applied for internal funding? Where would you look? 

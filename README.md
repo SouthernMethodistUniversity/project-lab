@@ -1,4 +1,6 @@
- # Project Laboratory
+This repo has been archived. Please see the [SMU@DHRI website](https://www.smu.edu/dhri) for the most current information.    
+
+# Project Laboratory
 
 We are going to work out the process for designing your digital research project in this session. 
 
